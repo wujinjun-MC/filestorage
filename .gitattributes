@@ -1,4 +1,8 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 E:/Download/Git/wujinjun-MC/filestorage/media/video/20221230连苏格兰都不能独立，台湾就更不可以_火锅大王_1080P60.mp4 filter=lfs diff=lfs merge=lfs -text
 E:/Download/Git/wujinjun-MC/filestorage/media/video/20221230聽見玻璃心碎的聲音...[[:space:]]黃明志[[:space:]]Ft.陳芳語【玻璃心】@鬼才做音樂[[:space:]]2021[[:space:]]Ghosician_4K60.mkv filter=lfs diff=lfs merge=lfs -text
+clash filter=lfs diff=lfs merge=lfs -text
+media filter=lfs diff=lfs merge=lfs -text
+multi filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
 * filter=lfs diff=lfs merge=lfs -text
