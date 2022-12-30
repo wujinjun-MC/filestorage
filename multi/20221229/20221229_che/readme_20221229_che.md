@@ -1,9 +1,3 @@
-欢迎来到文件页面
-
-20221229化学：
-
-1.完成步步高学习笔记第一章第一节第2课时
-
-2.认真预习第一章第一节第3课时，能写的尽量写
-
-loading……
+version https://git-lfs.github.com/spec/v1
+oid sha256:1687f3e4f289272a881a287b596ffa4e7a023b078e66ce67db1b0ea3f508dc88
+size 183
